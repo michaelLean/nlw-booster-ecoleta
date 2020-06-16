@@ -1,6 +1,6 @@
 ![](/.github/ecoleta.svg)
 
-### Tecnologías utilizadas:
+### Technologies:
 
     1. Node.js    
     2. Express
@@ -9,8 +9,8 @@
     5. React Native
     6. Expo    
 #
-### Projeto:
+### Project:
 
-Projeto criado na Next level Week da Rocketseat.
+Built in the next level week of rocketseat.
 
-O mesmo tem como objetivo criar e gerenciar pontos de coletas de resíduos recicláveis, e disponibilizar aos usuários esses pontos.
+The project aims to create and manage recyclable waste collect points, and provide for the commons users these points.
