@@ -5,9 +5,10 @@
     1. Node.js    
     2. Express
     3. TypeScript
-    4. React
-    5. React Native
-    6. Expo    
+    4. SQLite
+    5. React
+    6. React Native
+    7. Expo    
 #
 ### Project:
 
